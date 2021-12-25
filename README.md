@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @GrewalCreator
-- 👀 I’m interested in figuring out what about programming interests me and what i want to focus on for a career
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in contributing to open-source projects
+- 🌱 I’m currently learning Java, Python, HTML, CSS, Javascript
 - 📫 How to reach me: You can email me at 
 Email: gurtejgrewal455@gmail.com
-Discord: Grewal_Creator#3542
-Instagram: _.grewalg
-
-
+Discord: Grewal#3542
