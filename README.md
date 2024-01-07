@@ -15,5 +15,7 @@ Discord: Grewal#3542
 | [ChromaVision](https://github.com/GrewalCreator/ChromaVision) | 🚧 Closed Task | Hackathon Project. |
 
 ✔️ Complete - Finished Product
+
 👷‍♂️ In-Progress - Currently Underdevelopment
+
 🚧 Closed Task - Complete to an extent. Not in progress for the time being
