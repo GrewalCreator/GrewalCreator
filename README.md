@@ -3,7 +3,7 @@
 
 Email: gurtejgrewal455@gmail.com
 
-Discord: Grewal#3542
+Discord: _.grewalg
 
 
 | Project Name | Status  | Comment  |
