@@ -23,4 +23,4 @@ Discord: _.grewalg
 
 👷‍♂️ Up-Coming - Future Project
 
-📖 Archived - Complete to an extent. Not in progress for the time being
+📖 Archived - Complete to the extent of Core Features
