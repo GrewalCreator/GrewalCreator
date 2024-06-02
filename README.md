@@ -19,6 +19,8 @@ Discord: _.grewalg
 
 ✔️ Complete - Finished Product
 
-👷‍♂️ In-Progress - Currently Underdevelopment
+👷‍♂️ In-Progress - Currently Under development
+
+👷‍♂️ Up-Coming - Future Project
 
 📖 Archived - Complete to an extent. Not in progress for the time being
