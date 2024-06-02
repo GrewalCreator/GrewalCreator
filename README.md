@@ -12,7 +12,7 @@ Discord: _.grewalg
 | [Youtube Controls Toggle](https://github.com/GrewalCreator/Youtube_Controls_Extension) | ✔️ Complete | Toggle YT Controls On Videos |
 | [AED Simulation](https://github.com/GrewalCreator/AED-Simulator) | ✔️ Complete | Simulate AED Device |
 | [PasswordManager](https://github.com/GrewalCreator/PasswordManager) | 👷‍♂️ In-Progress | Password Managing Chrome Extensions Utlizing DJango Backend |
-| [IntelliText](https://github.com/GrewalCreator/IntelliText) | 👷‍♂️ In-Progress | Messaging app using AI filter |
+| [IntelliText](https://github.com/GrewalCreator/IntelliText) | 👷‍♂️ Up-Coming | Messaging app using AI filter |
 | [Depth<sup>2</sup>](https://github.com/GrewalCreator/DepthSquared) | 📖 Archived | Hackathon Project. |
 | [ChromaVision](https://github.com/GrewalCreator/ChromaVision) | 📖 Archived | Hackathon Project. |
 
