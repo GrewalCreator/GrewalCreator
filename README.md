@@ -8,6 +8,8 @@ Discord: _.grewalg
 
 | Project Name | Status  | Comment  |
 | ------------ | ------- | -------- |
+| [HarmOS](https://github.com/GrewalCreator/HarmOS) | 👷‍♂️ In-Progress | Custom 32-bit OS to build in my free time |
+| [BillBoards](https://github.com/GrewalCreator/E-Commerce-Webapp) | ✔️ Complete | Small Django backed E-Commerce Application |
 | [GhostHunters](https://github.com/GrewalCreator/GhostHunters) | ✔️ Complete | TUI, initally a collaborative school project |
 | [Youtube Controls Toggle](https://github.com/GrewalCreator/Youtube_Controls_Extension) | ✔️ Complete | Toggle YT Controls On Videos |
 | [AED Simulation](https://github.com/GrewalCreator/AED-Simulator) | ✔️ Complete | Simulate AED Device |
